@@ -1,0 +1,56 @@
+header {
+	background-image: url("../assets/coral-reef.jpg");
+	background-repeat: no-repeat;
+	background-size: 75%;
+	width: 75%;
+	height: 200px;
+	margin: 0 auto;
+}
+
+body {
+	background-color: #3278b4;
+}
+
+.title {
+	font-family: "Verdana", Arial, Helvetica, sans-serif;
+	color: #ffffff;
+	/*padding-bottom: 50px;*/
+}
+
+.center {
+	text-align: center;
+	float: center;
+}
+
+.header-img {
+	width: 75%;
+}
+
+#nav-bar-wrapper {
+	/*width: 75%;*/
+	text-align: center;
+}
+
+#nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	display: inline-block;
+	text-align: center;
+
+}
+#nav li {
+	display: inline-block;
+	text-align: center;
+}
+
+a {
+	display: block;
+	color: #FFFFFF;
+	width: 100px;
+}
+
+a:visited {
+	text-decoration: none;
+}
