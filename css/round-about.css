@@ -20,6 +20,10 @@ p.info-header {
   font-weight: 600;
 }
 
+.person-center {
+  margin: 0 auto;
+}
+
 .navbar-default {
   background-color: #3278b4;
 /*  border-color: #3278b4;
