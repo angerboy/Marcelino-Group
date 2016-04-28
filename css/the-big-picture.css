@@ -36,6 +36,36 @@ p {
 	padding-top: 75px;
 }
 
+.news-feed {
+  background-color: #FFFFFF;
+  height: 400px; width: 500px;
+  margin: 40px 30px 0px 25px;
+
+  opacity: 0.75;
+}
+
+#news-title {
+  padding: 10px 5px 10px 5px;
+  text-align: center;
+
+  margin: 0 0 0 0;
+
+  border-bottom: 1px solid #ccc;
+}
+
+.news-item {
+  padding: 10px 0px 0px 10px;
+
+  border-bottom: 1px solid #ccc;
+}
+
+.news-source {
+  font-family: 'Droid Sans', sans-serif;
+  color: #000;
+  font-weight: 50;
+  font-size: 13px;
+}
+
 .navbar-default {
   background-color: transparent;
   border-color: #3278b4;
